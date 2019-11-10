@@ -1,0 +1,16 @@
+<IDOCTYPE html>
+<html>
+<head>
+<title> zoo hackathon </title>
+<body>
+<h1> wwflogin </h1>
+<form>
+username:<input type="text" name="username" required><br><br>
+password:<input type= "text" name="pwd" required><br><br>
+email:<input type="text" name="email" required><br><br>
+<input type ="login" value="login">
+<a herf="first.html"> new user</a>
+</form>
+</body>
+</head>
+</html>
